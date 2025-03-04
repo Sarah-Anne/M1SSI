@@ -3,3 +3,6 @@ Ceci est la première modifiation apportée à ce fichier.
 Ceci est la deuxième ligne de modfication apportée à ce fichier2.
 
 Changements en étant sur la branche master.
+
+
+Changements en étant sur la branche master 2.
